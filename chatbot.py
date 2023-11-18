@@ -1,6 +1,9 @@
-#import Dependancies
+# Import Dependancies
 import nltk
 from nltk.chat.util import Chat, reflections
+
+# Run this command for first run
+# nltk.download('punkt')
 
 # Define the chatbot responses
 pairs = [
